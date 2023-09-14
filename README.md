@@ -1,1 +1,1 @@
-# lumpy
+# lumpy virus detection
